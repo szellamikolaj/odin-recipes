@@ -1,6 +1,7 @@
 body {
     font-family: 'Lucida Sans', 'Times New Roman', sans-serif;
     background-image: url(images/kitchen-minecraft.png);
+    box-sizing: border-box;
 }
 
 .title {

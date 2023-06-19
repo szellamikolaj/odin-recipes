@@ -1,6 +1,7 @@
 body {
     background-color: rgb(54, 5, 56);
     color: greenyellow;
+    box-sizing: border-box;
 }
 
 img {
@@ -10,4 +11,15 @@ img {
 h1 {
     color: orange;
     font-size: 48px;
+}
+
+a.back-button {
+    text-decoration: none;
+    color: #fcf3ea;
+    padding: 0;
+    margin: 0;
+}
+
+a:hover.back-button {
+    color: #ada49a;
 }

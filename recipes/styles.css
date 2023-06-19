@@ -1,7 +1,10 @@
-body {
-    background-color: rgb(54, 5, 56);
-    color: greenyellow;
+html {
     box-sizing: border-box;
+    background-image: url(../images/kitchen-minecraft.png)
+}
+
+body {
+    color: greenyellow;
 }
 
 img {

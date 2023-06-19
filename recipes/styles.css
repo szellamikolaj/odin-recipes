@@ -26,3 +26,8 @@ a.back-button {
 a:hover.back-button {
     color: #ada49a;
 }
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}

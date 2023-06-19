@@ -39,5 +39,6 @@ a:hover.back-button {
 .container {
     width: 800px;
     margin: 0 auto;
+    padding: 3px;
     background-color: black;
 }

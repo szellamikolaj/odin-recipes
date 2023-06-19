@@ -28,7 +28,3 @@ body {
 .recipe a:hover {
     color: #ada49a;
 }
-
-div p {
-    border: 2px solid red;
-}

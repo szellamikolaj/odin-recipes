@@ -42,3 +42,15 @@ a:hover.back-button {
     padding: 3px;
     background-color: black;
 }
+
+p {
+    padding: 20px;
+}
+
+ul {
+    padding: 20px 30px;
+}
+
+ol {
+    padding: 20px 35px;
+}

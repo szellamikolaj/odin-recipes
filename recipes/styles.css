@@ -21,6 +21,8 @@ h1 {
 }
 
 h2 {
+    display: block;
+    margin: 0 auto;
     text-align: center;
     padding: 5px;
 }
@@ -39,7 +41,7 @@ a:hover.back-button {
 .container {
     width: 800px;
     margin: 0 auto;
-    padding: 3px;
+    padding: 8px;
     background-color: black;
 }
 
@@ -55,7 +57,11 @@ ol {
     padding: 20px 35px;
 }
 
+p, ul, ol {
+    margin: 0;
+}
+
 .info-container{
-    margin: 10px;
+    margin: 8px 0 0 0;
     background-color: rgb(163, 90, 0);
 }

@@ -54,3 +54,8 @@ ul {
 ol {
     padding: 20px 35px;
 }
+
+.info-container{
+    margin: 10px;
+    background-color: rgb(163, 90, 0);
+}

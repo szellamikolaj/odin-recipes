@@ -12,13 +12,13 @@ img {
     height: auto;
     width: 100%;
     margin: 0 auto;
-    padding: px;
-    
 }
 h1 {
     color: orange;
     font-size: 48px;
     text-align: center;
+    background-color: rgb(93, 94, 94);
+    margin: 8px 0;
 }
 
 h2 {

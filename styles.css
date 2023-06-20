@@ -9,6 +9,7 @@ body {
 
 .title {
     color: orange;
+    text-shadow: 3px 3px black;
     text-align: center;
     font-size: 72px;
     font-weight: 100;
